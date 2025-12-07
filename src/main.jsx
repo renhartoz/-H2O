@@ -7,7 +7,7 @@ import Model from "./pages/3D.jsx";
 import WaterCatch from "./pages/WaterCatch.jsx"
 import GameQuiz from "./pages/GameQuiz.jsx";
 
-import "./assets/index.css";
+import "./index.css";
 
 import Home from "./pages/Home.jsx";
 

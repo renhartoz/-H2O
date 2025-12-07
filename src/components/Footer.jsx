@@ -16,7 +16,7 @@ const Footer = () => {
                 <Grid2 xs={12} sm={4} textAlign="center">
                     <Stack direction={'row'} alignItems={'baseline'} gap={1}>
                         <i className="ri-discord-fill" style={{ fontSize: 30 }} />
-                        <Typography variant="h6" gutterBottom fontSize={25}>
+                        <Typography variant="h6" gutterBottom fontSize={25} color='#fff'>
                             Discord
                         </Typography>
                     </Stack>
@@ -52,7 +52,7 @@ const Footer = () => {
                 <Grid2 xs={12} sm={4} textAlign="center">
                     <Stack direction={'row'} alignItems={'baseline'} gap={1}>
                         <i className="ri-github-fill" style={{ verticalAlign: 'middle', fontSize: 30 }} />
-                        <Typography variant="h6" gutterBottom fontSize={25}>
+                        <Typography variant="h6" gutterBottom fontSize={25} color='#fff'>
                             GitHub Profiles
                         </Typography>
                     </Stack>
@@ -91,7 +91,7 @@ const Footer = () => {
                 <Grid2 xs={12} sm={4} textAlign="center">
                     <Stack direction={'row'} alignItems={'baseline'} justifyContent={'center'} gap={1}>
                         <i className="ri-mail-fill" style={{ verticalAlign: 'middle', fontSize: 30 }}/>
-                        <Typography variant="h6" gutterBottom fontSize={25}>
+                        <Typography variant="h6" gutterBottom fontSize={25} color='#fff'>
                             Emails
                         </Typography>
                     </Stack>

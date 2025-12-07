@@ -3,7 +3,6 @@ import ColorPalette from "./components/ColorPalette";
 import { ParallaxProvider } from "react-scroll-parallax";
 import Footer from "./components/Footer";
 import { useEffect } from "react";
-import "./App.css";
 
 import AOS from "aos";
 import "aos/dist/aos.css";
